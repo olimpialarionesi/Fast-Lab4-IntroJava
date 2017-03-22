@@ -10,12 +10,14 @@ public class maximdindouanr {
         int numar2;
         numar2 = SkeletonJava.readIntConsole("Introduceti un numar:");
 
-        if (numar1 > numar2) ;
+        if (numar1 > numar2)
 
         SkeletonJava.printConsole(numar1 + " Este mai mare. ");
 
            else
         {
+
+
             SkeletonJava.printConsole( numar2 + " Este mai mare. ");
 
         }
